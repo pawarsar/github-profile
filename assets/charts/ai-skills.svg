@@ -1,0 +1,245 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="704" height="880" viewBox="0 0 704 880">
+  <defs>
+    <style>
+      text { font-family: 'Segoe UI', system-ui, sans-serif; }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect width="704" height="880" rx="16" fill="#0B0B10"/>
+  <!-- Title -->
+  <text x="352" y="44" text-anchor="middle"
+        font-size="20" font-weight="700" fill="#F8FAFC" letter-spacing="2">
+    MY AI STACK
+  </text>
+
+  <defs>
+    <linearGradient id="grad_Generative_AI" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="92" width="200" height="334"
+        rx="12" fill="url(#grad_Generative_AI)" stroke="#8B5CF6" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="48" y="120"
+        font-size="11" font-weight="700" fill="#8B5CF6" letter-spacing="1.5">
+    GENERATIVE AI
+  </text>
+  <line x1="48" y1="130" x2="216" y2="130"
+        stroke="#8B5CF6" stroke-width="0.5" stroke-opacity="0.3"/>
+  <rect x="40" y="144" width="54" height="28"
+          rx="6" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="163"
+        font-size="10" fill="#A78BFA" font-weight="500">LLMs</text>
+  <rect x="100" y="144" width="46" height="28"
+          rx="6" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="112" y="163"
+        font-size="10" fill="#A78BFA" font-weight="500">RAG</text>
+  <rect x="40" y="178" width="99" height="28"
+          rx="6" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="197"
+        font-size="10" fill="#A78BFA" font-weight="500">Agentic AI</text>
+  <rect x="40" y="212" width="181" height="28"
+          rx="6" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="231"
+        font-size="10" fill="#A78BFA" font-weight="500">Multi-Agent Workflows</text>
+  <rect x="40" y="246" width="159" height="28"
+          rx="6" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="265"
+        font-size="10" fill="#A78BFA" font-weight="500">Prompt Engineering</text>
+  <rect x="40" y="280" width="129" height="28"
+          rx="6" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="299"
+        font-size="10" fill="#A78BFA" font-weight="500">LLM Evaluation</text>
+  <rect x="40" y="314" width="99" height="28"
+          rx="6" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="333"
+        font-size="10" fill="#A78BFA" font-weight="500">Guardrails</text>
+  <rect x="40" y="348" width="181" height="28"
+          rx="6" fill="#8B5CF6" fill-opacity="0.2" stroke="#8B5CF6" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="367"
+        font-size="10" fill="#A78BFA" font-weight="500">Hallucination Control</text>
+  <defs>
+    <linearGradient id="grad_Retrieval" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect x="252" y="92" width="200" height="334"
+        rx="12" fill="url(#grad_Retrieval)" stroke="#22D3EE" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="268" y="120"
+        font-size="11" font-weight="700" fill="#22D3EE" letter-spacing="1.5">
+    RETRIEVAL
+  </text>
+  <line x1="268" y1="130" x2="436" y2="130"
+        stroke="#22D3EE" stroke-width="0.5" stroke-opacity="0.3"/>
+  <rect x="260" y="144" width="136" height="28"
+          rx="6" fill="#22D3EE" fill-opacity="0.2" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="163"
+        font-size="10" fill="#67E8F9" font-weight="500">Azure AI Search</text>
+  <rect x="260" y="178" width="121" height="28"
+          rx="6" fill="#22D3EE" fill-opacity="0.2" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="197"
+        font-size="10" fill="#67E8F9" font-weight="500">Vector Search</text>
+  <rect x="260" y="212" width="144" height="28"
+          rx="6" fill="#22D3EE" fill-opacity="0.2" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="231"
+        font-size="10" fill="#67E8F9" font-weight="500">Hybrid Retrieval</text>
+  <rect x="260" y="246" width="99" height="28"
+          rx="6" fill="#22D3EE" fill-opacity="0.2" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="265"
+        font-size="10" fill="#67E8F9" font-weight="500">Embeddings</text>
+  <rect x="260" y="280" width="84" height="28"
+          rx="6" fill="#22D3EE" fill-opacity="0.2" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="299"
+        font-size="10" fill="#67E8F9" font-weight="500">pgvector</text>
+  <rect x="260" y="314" width="99" height="28"
+          rx="6" fill="#22D3EE" fill-opacity="0.2" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="333"
+        font-size="10" fill="#67E8F9" font-weight="500">PostgreSQL</text>
+  <rect x="260" y="348" width="91" height="28"
+          rx="6" fill="#22D3EE" fill-opacity="0.2" stroke="#22D3EE" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="367"
+        font-size="10" fill="#67E8F9" font-weight="500">RDS Proxy</text>
+  <defs>
+    <linearGradient id="grad_Backend" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#6EE7B7" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect x="472" y="92" width="200" height="334"
+        rx="12" fill="url(#grad_Backend)" stroke="#34D399" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="488" y="120"
+        font-size="11" font-weight="700" fill="#34D399" letter-spacing="1.5">
+    BACKEND
+  </text>
+  <line x1="488" y1="130" x2="656" y2="130"
+        stroke="#34D399" stroke-width="0.5" stroke-opacity="0.3"/>
+  <rect x="480" y="144" width="69" height="28"
+          rx="6" fill="#34D399" fill-opacity="0.2" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="492" y="163"
+        font-size="10" fill="#6EE7B7" font-weight="500">Python</text>
+  <rect x="555" y="144" width="46" height="28"
+          rx="6" fill="#34D399" fill-opacity="0.2" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="567" y="163"
+        font-size="10" fill="#6EE7B7" font-weight="500">SQL</text>
+  <rect x="480" y="178" width="76" height="28"
+          rx="6" fill="#34D399" fill-opacity="0.2" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="492" y="197"
+        font-size="10" fill="#6EE7B7" font-weight="500">FastAPI</text>
+  <rect x="562" y="178" width="91" height="28"
+          rx="6" fill="#34D399" fill-opacity="0.2" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="574" y="197"
+        font-size="10" fill="#6EE7B7" font-weight="500">REST APIs</text>
+  <rect x="480" y="212" width="99" height="28"
+          rx="6" fill="#34D399" fill-opacity="0.2" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="492" y="231"
+        font-size="10" fill="#6EE7B7" font-weight="500">SQLAlchemy</text>
+  <rect x="480" y="246" width="91" height="28"
+          rx="6" fill="#34D399" fill-opacity="0.2" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="492" y="265"
+        font-size="10" fill="#6EE7B7" font-weight="500">LangChain</text>
+  <rect x="480" y="280" width="91" height="28"
+          rx="6" fill="#34D399" fill-opacity="0.2" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="492" y="299"
+        font-size="10" fill="#6EE7B7" font-weight="500">LangGraph</text>
+  <rect x="577" y="280" width="61" height="28"
+          rx="6" fill="#34D399" fill-opacity="0.2" stroke="#34D399" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="589" y="299"
+        font-size="10" fill="#6EE7B7" font-weight="500">Flask</text>
+  <defs>
+    <linearGradient id="grad_Cloud" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#FCD34D" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect x="32" y="446" width="200" height="402"
+        rx="12" fill="url(#grad_Cloud)" stroke="#F59E0B" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="48" y="474"
+        font-size="11" font-weight="700" fill="#F59E0B" letter-spacing="1.5">
+    CLOUD
+  </text>
+  <line x1="48" y1="484" x2="216" y2="484"
+        stroke="#F59E0B" stroke-width="0.5" stroke-opacity="0.3"/>
+  <rect x="40" y="498" width="114" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="517"
+        font-size="10" fill="#FCD34D" font-weight="500">Azure OpenAI</text>
+  <rect x="40" y="532" width="129" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="551"
+        font-size="10" fill="#FCD34D" font-weight="500">Amazon Bedrock</text>
+  <rect x="40" y="566" width="144" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="585"
+        font-size="10" fill="#FCD34D" font-weight="500">Titan Embeddings</text>
+  <rect x="40" y="600" width="99" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="619"
+        font-size="10" fill="#FCD34D" font-weight="500">AWS Lambda</text>
+  <rect x="145" y="600" width="39" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="157" y="619"
+        font-size="10" fill="#FCD34D" font-weight="500">S3</text>
+  <rect x="40" y="634" width="99" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="653"
+        font-size="10" fill="#FCD34D" font-weight="500">CloudFront</text>
+  <rect x="40" y="668" width="136" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="687"
+        font-size="10" fill="#FCD34D" font-weight="500">Secrets Manager</text>
+  <rect x="40" y="702" width="46" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="721"
+        font-size="10" fill="#FCD34D" font-weight="500">IAM</text>
+  <rect x="92" y="702" width="76" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="104" y="721"
+        font-size="10" fill="#FCD34D" font-weight="500">AWS CDK</text>
+  <rect x="40" y="736" width="114" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="755"
+        font-size="10" fill="#FCD34D" font-weight="500">Azure DevOps</text>
+  <rect x="40" y="770" width="69" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="52" y="789"
+        font-size="10" fill="#FCD34D" font-weight="500">Docker</text>
+  <rect x="115" y="770" width="46" height="28"
+          rx="6" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="127" y="789"
+        font-size="10" fill="#FCD34D" font-weight="500">GIT</text>
+  <defs>
+    <linearGradient id="grad_LLMOps" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F87171" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#FCA5A5" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect x="252" y="446" width="200" height="402"
+        rx="12" fill="url(#grad_LLMOps)" stroke="#F87171" stroke-width="1" stroke-opacity="0.4"/>
+  <text x="268" y="474"
+        font-size="11" font-weight="700" fill="#F87171" letter-spacing="1.5">
+    LLMOPS
+  </text>
+  <line x1="268" y1="484" x2="436" y2="484"
+        stroke="#F87171" stroke-width="0.5" stroke-opacity="0.3"/>
+  <rect x="260" y="498" width="166" height="28"
+          rx="6" fill="#F87171" fill-opacity="0.2" stroke="#F87171" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="517"
+        font-size="10" fill="#FCA5A5" font-weight="500">Prompt Optimization</text>
+  <rect x="260" y="532" width="151" height="28"
+          rx="6" fill="#F87171" fill-opacity="0.2" stroke="#F87171" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="551"
+        font-size="10" fill="#FCA5A5" font-weight="500">Output Validation</text>
+  <rect x="260" y="566" width="54" height="28"
+          rx="6" fill="#F87171" fill-opacity="0.2" stroke="#F87171" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="585"
+        font-size="10" fill="#FCA5A5" font-weight="500">RBAC</text>
+  <rect x="260" y="600" width="189" height="28"
+          rx="6" fill="#F87171" fill-opacity="0.2" stroke="#F87171" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="619"
+        font-size="10" fill="#FCA5A5" font-weight="500">Authorization Controls</text>
+  <rect x="260" y="634" width="129" height="28"
+          rx="6" fill="#F87171" fill-opacity="0.2" stroke="#F87171" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="272" y="653"
+        font-size="10" fill="#FCA5A5" font-weight="500">LLM Evaluation</text>
+</svg>
